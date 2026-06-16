@@ -110,6 +110,44 @@
 - Google Gemini API key
 - Sarvam AI API key (for online mode TTS)
 
+## 📸 Screenshots
+
+### Main Interface
+![Main Interface](screenshot_main.jpg)
+
+*The app's main screen with voice command buttons and status indicators.*
+
+---
+
+### Detection Results
+
+| Scenario | Screenshot |
+|----------|------------|
+| **Objects Detected** (Chairs & Table) | ![Chairs](screenshot_detection_chairs.jpg) |
+| **Objects Detected** (Cars & Persons) | ![Cars](screenshot_detection_cars.jpg) |
+| **Offline Mode** | ![Offline](screenshot_offline.jpg) |
+
+---
+
+### Multilingual Support
+
+| Language | Screenshot |
+|----------|------------|
+| **Tamil** | ![Tamil](screenshot_telagu.jpg) |
+| **Language Selection** | ![Language](screenshot_language.jpg) |
+
+---
+
+### Features in Action
+
+- ✅ **Real-time object detection** - Identifies chairs, tables, cars, persons
+- ✅ **Multilingual support** - Works in Tamil, Kannada, Hindi, English, Telugu, Marathi
+- ✅ **Offline capability** - Continues working without internet
+- ✅ **Voice-first interface** - Hands-free operation
+- ✅ **Gemini AI integration** - Rich scene descriptions
+
+> **Note:** These screenshots showcase the app's core features including voice commands, object detection, multilingual support, and offline functionality.
+
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/Suma103413/Visual_Assistant.git
