@@ -113,9 +113,9 @@
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](screenshot_main.jpg)
+![Main Interface](https://github.com/Suma103413/Visual_Assistant/blob/master/screenshot_main.jpg.png?raw=true)
 
-*The app's main screen with voice command buttons and status indicators.*
+*The app's main screen.*
 
 ---
 
@@ -123,9 +123,9 @@
 
 | Scenario | Screenshot |
 |----------|------------|
-| **Objects Detected** (Chairs & Table) | ![Chairs](screenshot_detection_chairs.jpg) |
-| **Objects Detected** (Cars & Persons) | ![Cars](screenshot_detection_cars.jpg) |
-| **Offline Mode** | ![Offline](screenshot_offline.jpg) |
+| **Objects Detected** (Chairs & Table) | ![Chairs](https://github.com/Suma103413/Visual_Assistant/blob/master/screenshot_detection_chairs.jpg.png?raw=true) |
+| **Objects Detected** (Cars & Persons) | ![Cars](https://github.com/Suma103413/Visual_Assistant/blob/master/screenshot_detection_cars.jpg.png?raw=true) |
+| **Offline Mode** | ![Offline](https://github.com/Suma103413/Visual_Assistant/blob/master/screenshot_offline.jpg.png?raw=true) |
 
 ---
 
@@ -133,8 +133,8 @@
 
 | Language | Screenshot |
 |----------|------------|
-| **Tamil** | ![Tamil](screenshot_telagu.jpg) |
-| **Language Selection** | ![Language](screenshot_language.jpg) |
+| **Telagu** | ![Tamil](https://github.com/Suma103413/Visual_Assistant/blob/master/screenshot_telagu.jpg.png?raw=true) |
+| **Language Selection** | ![Language](https://github.com/Suma103413/Visual_Assistant/blob/master/screenshot_language.jpg.png?raw=true) |
 
 ---
 
